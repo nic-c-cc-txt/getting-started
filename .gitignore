@@ -1,1 +1,14 @@
 node_modules
+build.sh
+build.sh
+docs/tutorial/index.md
+docs/tutorial/multi-container-apps/index.md
+docs/tutorial/multi-container-apps/vs-multi-container-app.png
+docs/tutorial/our-application/index.md
+docs/tutorial/our-application/vs-two-containers.png
+docs/tutorial/updating-our-app/index.md
+docs/tutorial/updating-our-app/vs-removing-container.png
+docs/tutorial/using-docker-compose/index.md
+docs/tutorial/using-docker-compose/vs-app-project-collapsed.png
+docs/tutorial/using-docker-compose/vs-app-project-expanded.png
+docs/tutorial/vs-tutorial-in-extension.png
